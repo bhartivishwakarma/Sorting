@@ -1,4 +1,4 @@
-/* Sorting of array list using binary insertion sort
+ /* Sorting of array list using binary insertion sort
  * Using binary search to find the proper location for
  * inserting the selected item at each iteration. */
 #include <stdio.h>
